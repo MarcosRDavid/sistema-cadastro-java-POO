@@ -15,7 +15,7 @@ Este projeto é um sistema simples de cadastro de usuários, desenvolvido em Jav
 
 ## 🧠 Conceitos aplicados
 
-- Java puro  
+- Java SE (Java Standard Edition)  
 - Programação Orientada a Objetos (POO)  
 - Classes e objetos  
 - Encapsulamento  
