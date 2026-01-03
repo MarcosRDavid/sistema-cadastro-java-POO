@@ -10,24 +10,58 @@ Este projeto é um sistema simples de cadastro de usuários, desenvolvido em Jav
 - Listagem de usuários cadastrados  
 - Atualização de email  
 - Menu interativo em loop  
-- Execução via terminal  
 
 ---
 
 ## 🧠 Conceitos aplicados
 
-- Java puro
-- Programação Orientada a Objetos (POO)
-- Classes e objetos
-- Encapsulamento
-- ArrayList
-- Scanner
-- Organização em pacotes
-- Compilação com javac e execução com java
+- Java puro  
+- Programação Orientada a Objetos (POO)  
+- Classes e objetos  
+- Encapsulamento  
+- ArrayList  
+- Scanner  
+- Organização em pacotes  
 
 ---
 
 ## 🗂️ Estrutura do projeto
+
+```
+sistema-cadastro-java
+ ├─ README.md
+ └─ src
+    ├─ model
+    │  └─ Usuario.java
+    └─ main
+       └─ Main.java
+```
+
+---
+
+## ▶️ Como executar
+
+```
+cd src
+javac model/Usuario.java main/Main.java
+java main.Main
+```
+
+---
+
+## 🎯 Objetivo
+
+Projeto desenvolvido para fins educacionais, com foco em consolidar os fundamentos de Java e POO na prática.
+
+---
+
+## 👤 Autor
+
+Marcos Rogerio David  
+Estudante de Análise e Desenvolvimento de Sistemas
+
+
+
 
 
 
